@@ -1,4 +1,9 @@
-tyrhewfqghgfxndsfad
-fdsvadfdfghfndsf
-fgnxdsvfdgxgfhfndsc
-dfgnfxbdsfggfcfxb
+algebra
+excel
+fundamentos de programacion 
+analisis y diseño (USANDO EL ESTANDAR UML)
+programacion orientada a objetos
+repaso o refuerzo de programacion con html
+git y github
+ 
+
